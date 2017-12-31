@@ -1,5 +1,7 @@
 # README
 
+This is a finance tracking app which is a test application
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
