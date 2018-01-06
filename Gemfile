@@ -9,8 +9,14 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 
-
-
+#use devise for authentication
+gem 'devise'
+#another gem added for some reason? releated to look and feel added
+gem 'twitter-bootstrap-rails'
+#another UI gem added
+gem 'jquery-rails'
+#another UI gem added
+gem 'devise-bootstrap-views'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
