@@ -19,6 +19,8 @@ gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 #stock info gem
 gem 'stock_quote'
+#gem for font awesome cool images and shit
+gem 'font-awesome-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
